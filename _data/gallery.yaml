@@ -1,0 +1,23 @@
+research:
+  - image: images/gallery/research1.jpg
+    caption: "Single-cell analysis pipeline"
+  - image: images/gallery/research2.jpg
+    caption: "Computational biology workflow"
+  - image: images/gallery/research3.jpg
+    caption: "Data visualization example"
+
+activities:
+  - image: images/gallery/qiuyou1.jpg
+    caption: "Autumn 2025: Hiking in JiuXi"
+  - image: images/gallery/qiuyou2.jpg
+    caption: "Autumn 2025: Hiking in JiuXi"
+  - image: images/gallery/qiuyou3.jpg
+    caption: "Autumn 2025: Hiking in JiuXi"
+  - image: images/gallery/qiuyou4.jpg
+    caption: "Autumn 2025: Hiking in JiuXi"
+
+equipment:
+  - image: images/gallery/microscope.jpg
+    caption: "Confocal microscope"
+  - image: images/gallery/sequencer.jpg
+    caption: "NGS sequencing platform"
