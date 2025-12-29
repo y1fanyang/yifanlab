@@ -1,0 +1,14 @@
+<!-- _includes/image.html -->
+<figure class="image-container" style="{{ include.style }}">
+  <img src="{{ include.image | relative_url }}"
+       alt="{{ include.caption | default: include.title }}"
+       loading="lazy">
+
+  {% if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+
+  {% if include.description %}
+  <div class="image-description">{{ include.description }}</div>
+  {% endif %}
+</figure>

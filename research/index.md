@@ -17,4 +17,4 @@ Aging research have accumulated many genes and pathways that are implicated in t
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list_citation.html data="citations" component="citation" style="rich" %}

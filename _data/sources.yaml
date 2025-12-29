@@ -34,6 +34,7 @@
   date: '2025-04-08'
   link: https://doi.org/g9vm6c
 
+
 - id: doi:10.1038/s41467-023-37930-x
   title: Damage dynamics and the role of chance in the timing of E. coli cell death
   authors:
@@ -49,6 +50,7 @@
   date: '2023-04-18'
   link: https://doi.org/g9pq76
 
+
 - id: doi:10.1126/sciadv.aaw2069
   title: "Temporal scaling of aging as an adaptive strategy of\n            <i>Escherichia\
     \ coli</i>"
@@ -62,6 +64,7 @@
   publisher: Science Advances
   date: '2019-05-03'
   link: https://doi.org/n4z7
+
 
 - id: doi:10.1016/bs.mim.2016.10.003
   title: Time-lapse microscopy and image analysis of Escherichia coli cells in mother

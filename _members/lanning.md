@@ -1,8 +1,8 @@
 ---
 name: Lanning Liu
-image: images/team/some-image.jpg
+image: images/team/lanning-headshot.jpg
 role: staff
-description: adminstrative assistant
+description: Adminstrative Assistant
 aliases:
   - 刘兰凝
   - Lanning
@@ -11,4 +11,4 @@ links:
   email: liulanning at westlake.edu.cn
 ---
 
-Lanning studied econometrics at Paris V. She has two Border Colies.
+Lanning studied Health Economics at Paris V. She has two Border Colies. In her personal time,she enjoys exploring the natural world with her dogs and discovering its beauty.
