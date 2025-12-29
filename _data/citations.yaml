@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/mbio.02066-25
+  title: Principles of bacteriostatic and bactericidal antibiotics at subinhibitory
+    concentrations
+  authors:
+  - Elizabeth Vaisbourd
+  - David Shaanan Glass
+  - Yifan Yang
+  - Avi Mayo
+  - Anat Bren
+  - Uri Alon
+  publisher: mBio
+  date: '2025-11-12'
+  link: https://doi.org/g97ckt
+  orcid: 0000-0001-6697-0198
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-6946440/v1
   title: A damage accumulation model reveals strategies of aging across species
   authors: []
