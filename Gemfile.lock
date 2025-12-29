@@ -56,6 +56,7 @@ GEM
       logger
     faraday-net_http (3.4.2)
       net-http (~> 0.5)
+    ffi (1.17.2)
     ffi (1.17.2-x64-mingw-ucrt)
     ffi (1.17.2-x86_64-linux-gnu)
     fiber-annotation (0.2.0)
@@ -260,6 +261,7 @@ GEM
     logger (1.7.0)
     mercenary (0.3.6)
     metrics (0.12.2)
+    mini_portile2 (2.8.9)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -267,6 +269,9 @@ GEM
     minitest (5.27.0)
     net-http (0.9.1)
       uri (>= 0.11.1)
+    nokogiri (1.18.10)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
     nokogiri (1.18.10-x64-mingw-ucrt)
       racc (~> 1.4)
     nokogiri (1.18.10-x86_64-linux-gnu)
@@ -319,6 +324,7 @@ GEM
     zeitwerk (2.6.18)
 
 PLATFORMS
+  ruby
   x64-mingw-ucrt
   x86_64-linux
 
