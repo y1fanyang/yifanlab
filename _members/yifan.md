@@ -2,7 +2,7 @@
 name: Yifan Yang
 image: images/team/yifan-headshot.jpg
 role: PI
-description: principal investigator
+description: Principal Investigator
 aliases:
   - Yifan
   - 杨一帆
