@@ -5,6 +5,6 @@
 
   # y1fanyang's Website
 
-  Visit **[yifanlab.org](https://yifanlab.org)** 🚀
+  Visit **[y1fanyang.github.io/yifanlab](https://y1fanyang.github.io/yifanlab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
