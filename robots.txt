@@ -1,1 +1,1 @@
-Sitemap: https://yifanlab.org/sitemap.xml
+Sitemap: https://y1fanyang.github.io/yifanlab/sitemap.xml
