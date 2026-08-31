@@ -1,5 +1,41 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s43587-026-01138-7
+  title: A damage accumulation model identifies distinct aging regimes across species
+  authors:
+  - Naveh Raz
+  - Yifan Yang
+  - Glen Pridham
+  - Ben Shenhar
+  - Shachaf Frenkel
+  - Tomer Levy
+  - Tsvi Tlusty
+  - Avi Mayo
+  - Uri Alon
+  publisher: Nature Aging
+  date: '2026-06-09'
+  link: https://doi.org/hb7psr
+  orcid: 0000-0001-6697-0198
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.adz1187
+  title: Heritability of intrinsic human life span is about 50% when confounding factors
+    are addressed
+  authors:
+  - Ben Shenhar
+  - Glen Pridham
+  - "Tha\xEDs Lopes De Oliveira"
+  - Naveh Raz
+  - Yifan Yang
+  - Joris Deelen
+  - "Sara H\xE4gg"
+  - Uri Alon
+  publisher: Science
+  date: '2026-01-29'
+  link: https://doi.org/hbm78r
+  orcid: 0000-0001-6697-0198
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1128/mbio.02066-25
   title: Principles of bacteriostatic and bactericidal antibiotics at subinhibitory
     concentrations
@@ -66,7 +102,7 @@
   - Naveh Raz
   - Dan Jarosz
   - Uri Alon
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-05'
   link: https://doi.org/g9vm6d
   orcid: 0000-0001-6697-0198
@@ -90,8 +126,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.10.17.512406
-  title: Damage dynamics in single<i>E. coli</i>and the role of chance in the timing
-    of cell death
+  title: "Damage dynamics in single\n                  <i>E. coli</i>\n          \
+    \        and the role of chance in the timing of cell death"
   authors:
   - Yifan Yang
   - Omer Karin
@@ -102,7 +138,7 @@
   - Ana L. Santos
   - Ariel B. Lindner
   - Uri Alon
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-10-17'
   link: https://doi.org/gszkmr
   orcid: 0000-0001-6697-0198
@@ -155,6 +191,17 @@
   orcid: 0000-0001-6697-0198
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.70675/9a8582cez68d6z4ac6z805bzd4173cdb914c
+  title: Physiological constraints and evolutionary trade-offs underlying bacterial
+    aging, caloric restriction and longevity
+  authors:
+  - Yifan Yang
+  publisher: "Agence Bibliographique de l'Enseignement Sup\xE9rieur"
+  date: ''
+  link: https://doi.org/hbv4cf
+  orcid: 0000-0001-6697-0198
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/1471-2105-8-97
   title: 'MED: a new non-supervised gene prediction algorithm for bacterial and archaeal
     genomes'
@@ -187,7 +234,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/376566
-  title: Temporal scaling of ageing as an adaptive strategy of<i>Escherichia coli</i>
+  title: "Temporal scaling of ageing as an adaptive strategy of\n                \
+    \  <i>Escherichia coli</i>"
   authors:
   - Yifan Yang
   - Ana L. Santos
@@ -195,7 +243,7 @@
   - Chantal Lotton
   - "Fran\xE7ois Taddei"
   - Ariel B. Lindner
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-07-24'
   link: https://doi.org/gkv25r
   orcid: 0000-0001-6697-0198
